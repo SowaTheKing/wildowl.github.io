@@ -1,13 +1,15 @@
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+<span id="a">c0dew3ll@localhost</span>:<span id="b">~</span><span id="c">$</span> cd dumps/NASA/mssql_drop
+<span id="a">c0dew3ll@localhost</span>:<span id="b">~</span><span id="c">$</span> cat motd.txt<br/><br/>
+"<span id="k">Every great developer you know got there by solving problems they were unqualified to solve until they actually did it</span>".
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p>Hey, I'm Pawel and this is mine cool homepage. I made it mainly as placeholder for mine atricles to brag arount recruiters until i can get 20k USD remote job and move to Thailand. </p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<p>So, if u are recruiter and somehow landed here, please take a look at mine articles or msg me directly at <a href="WildOwl@protonmail.com">This mail</a></p>
 
-<p>Cheers!</p>
+<p>Also, living is hard in eastern block, so if u are rich guy from developed country, and you like what i have wrote, don't hestiate to support me with some change</p>
+
+<p> Articles i have made:</p>
+
+<p>[JAVA]</p>
+<p><a href="http://www.linkedin.com/pulse/print-vs-println-go-deep-you-wont-regret-pawe%C5%82-maryszczuk/">Print() vs Println() - Go deep, you won't regret that.</a><br/>
+<a href="http://www.linkedin.com/pulse/archiving-persistence-java-using-40-lines-code-1-pawe%C5%82-maryszczuk/"> Archiving persistence in Java using 40 lines of code [Black-Hat Java #1]</a><br/>
