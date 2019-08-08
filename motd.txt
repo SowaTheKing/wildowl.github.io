@@ -12,4 +12,4 @@
 
 <p>[JAVA]</p>
 <p><a href="http://medium.com/@pawemaryszczuk/print-vs-println-go-deep-you-wont-regret-that-5bf6a07ddae2">Print() vs Println() - Go deep, you won't regret that.</a><br/>
-<a href="http://www.linkedin.com/pulse/archiving-persistence-java-using-40-lines-code-1-pawe%C5%82-maryszczuk/"> Archiving persistence in Java using 40 lines of code [Black-Hat Java #1]</a><br/>
+<a href="http://medium.com/@pawemaryszczuk/can-java-be-nasty-a47155e57453"> Archiving persistence in Java using 40 lines of code [Black-Hat Java #1]</a><br/>
