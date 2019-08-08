@@ -2,7 +2,7 @@
 <span id="a">c0dew3ll@localhost</span>:<span id="b">~</span><span id="c">$</span> cat motd.txt<br/><br/>
 "<span id="k">Every great developer you know got there by solving problems they were unqualified to solve until they actually did it</span>".
 
-<p>Hey, I'm Pawel and this is mine cool homepage. I made it mainly as placeholder for mine atricles to brag arount recruiters until i can get 20k USD remote job and move to Thailand. </p>
+<p>Hey, I'm Pawel and this is mine cool homepage. I made it mainly as placeholder for mine atricles to brag around recruiters until i can get 20k USD remote job and move to Thailand. </p>
 
 <p>So, if u are recruiter and somehow landed here, please take a look at mine articles or msg me directly at <a href="WildOwl@protonmail.com">This mail</a></p>
 
